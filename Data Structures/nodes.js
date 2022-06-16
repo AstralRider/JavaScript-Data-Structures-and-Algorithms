@@ -27,9 +27,9 @@ export class Node {
   const firstNode = new Node('I am an instance of a Node!');
 
   //Create an instance of the second node
-  const secondNode = new Node('Second node');
+  // const secondNode = new Node('Second node');
 
   //Set firstNode -> secondNode
-  firstNode.setNextNode(secondNode);
+  // firstNode.setNextNode(secondNode);
 
   

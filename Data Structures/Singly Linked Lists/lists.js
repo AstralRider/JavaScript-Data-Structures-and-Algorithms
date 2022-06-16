@@ -1,8 +1,5 @@
 import { Node } from '../nodes'
 
-
-
-
 class LinkedList {
     constructor() {
       this.head = null;
